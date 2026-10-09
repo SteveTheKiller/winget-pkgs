@@ -16,7 +16,7 @@ ReleaseDate: 2026-10-09
 AppsAndFeaturesEntries:
 - DisplayName: KillerScan
   Publisher: Steve the Killer
-  DisplayVersion: 1.7.5
+  DisplayVersion: 1.8.0
   ProductCode: KillerScan
 Installers:
 - Architecture: x64
