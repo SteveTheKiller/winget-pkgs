@@ -36,7 +36,7 @@ Test the actual workflow affected by the change. A successful build alone does n
 
 State which checks passed and which paths you could not test. Use fabricated or safely redacted fixtures, and keep private data and credentials out of issues, logs, and test files.
 
-Translation-only and documentation-only changes do not need a full application build unless they affect generated files or runtime behavior. Preserve resource keys and format placeholders, and follow the repository's translation guide when one exists.
+Translation-only and documentation-only changes do not need a full application build unless they affect generated files or runtime behavior. Preserve resource keys and format strings, and follow the repository's translation guide when one exists.
 
 ## Dependencies and data safety
 
