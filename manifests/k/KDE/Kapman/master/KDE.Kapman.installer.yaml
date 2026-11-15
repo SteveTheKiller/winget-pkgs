@@ -6,18 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: kapman
-ReleaseDate: 2026-11-01
+ReleaseDate: 2026-11-13
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-945-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 4BE9FFB631F0A8C4A8A1C43B2541364F2A1CE58125087F9FF5701D6CAB65A22E
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-954-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 0E26768DD7003DAD6AE1BCA208989A6D9A5833756DFC111A43174E98A2C33EB8
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-945-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: 4BE9FFB631F0A8C4A8A1C43B2541364F2A1CE58125087F9FF5701D6CAB65A22E
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/kapman/master/windows/kapman-master-954-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 0E26768DD7003DAD6AE1BCA208989A6D9A5833756DFC111A43174E98A2C33EB8
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer

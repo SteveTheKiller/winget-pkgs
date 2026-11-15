@@ -6,18 +6,18 @@ PackageVersion: master
 InstallerType: nullsoft
 UpgradeBehavior: install
 ProductCode: killbots
-ReleaseDate: 2026-11-01
+ReleaseDate: 2026-11-13
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/killbots/master/windows/killbots-master-1010-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AFFBE7D69C7A1B66EAEC312CDB811F35F90FC05EECABC88E3C66AB09D41D6C9F
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/killbots/master/windows/killbots-master-1022-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 83CC64425A8EF0CA268E1FA61ED08A2EB8F1ACFF8AF868D80FDAF1665527ABF7
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/games/killbots/master/windows/killbots-master-1010-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: AFFBE7D69C7A1B66EAEC312CDB811F35F90FC05EECABC88E3C66AB09D41D6C9F
+  InstallerUrl: https://cdn.kde.org/ci-builds/games/killbots/master/windows/killbots-master-1022-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 83CC64425A8EF0CA268E1FA61ED08A2EB8F1ACFF8AF868D80FDAF1665527ABF7
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
